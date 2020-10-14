@@ -29,6 +29,7 @@ var firebaseConfig = {
     var email = getInputVal('email');
     var number=getInputVal('number')
     var message = getInputVal('message');
+    console.log(process.env.apiKey1)
 
   //save message
   saveMessage(name,company,email,number,message);
