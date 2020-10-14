@@ -343,6 +343,10 @@ h3,#title{
   font-weight: bold;
   font-size: 250%;
 }
+h6{
+  color:rgb(18, 108, 114);
+  font-weight: bold;
+}
 .button5 {
   background-color:lightblue; 
   border: none;
@@ -354,6 +358,3 @@ h3,#title{
   font-size: 80%;
   border-radius: 40%;
 }
-/* #tec {
-  font-size: 80%;
-} */
