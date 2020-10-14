@@ -343,9 +343,15 @@ h3,#title{
   font-weight: bold;
   font-size: 250%;
 }
-h6{
+#subsection{
   color:rgb(18, 108, 114);
   font-weight: bold;
+  text-align: center;
+}
+#contact{
+  color:rgb(145, 180, 194);
+  font-weight: bold;
+ 
 }
 .button5 {
   background-color:lightblue; 
